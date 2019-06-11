@@ -8,27 +8,27 @@
 5. before entering the world click the addons button at the left bottom of the screen, enable the load outdated option if necessary
 
 ## AddOns
-- Bartender4  
+- **Bartender4**  
   customisable action bars
-- DeadlyBossMods  
+- **DeadlyBossMods**  
   boss timers for raids and dungoens
-- GearScore  
+- **GearScore**  
   shows the score of gear, used to measure player skill..?
-- Grid  
+- **Grid**  
   party and raid frames in a nice grid
-- Omen  
+- **Omen**  
   customisable threat meter
-- OmniCC  
+- **OmniCC**  
   better cooldown timers on action bars
-- PitBull4  
+- **PitBull4**  
   customisable unit frames
-- Quartz  
+- **Quartz**  
   customisable cast bar
-- Recount  
+- **Recount**  
   customisable damage/healing meter
-- TidyPlates  
+- **TidyPlates**  
   replaces floating health bars, shows proper aggro for tanks
-- TinyTip  
+- **TinyTip**  
   replaces tooltips
-- WeakAuras  
+- **WeakAuras**  
   customisable timers, icons and bars for cooldowns and buffs
