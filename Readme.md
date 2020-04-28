@@ -39,5 +39,8 @@
 - **WeakAuras**  
   customizable timers, icons and bars for cooldowns and buffs
 
+
+-------------------
+## Games
 - **Peggle**  
 - **Bejeweled**  
