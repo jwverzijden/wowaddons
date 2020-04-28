@@ -8,6 +8,8 @@
 5. before entering the world click the addons button at the left bottom of the screen, enable the load outdated option if necessary
 
 ## AddOns
+- **Bagnon**  
+  inventory management, a single searchable bag with all your bagslots
 - **Bartender4**  
   customizable action bars
 - **DeadlyBossMods**  
@@ -26,6 +28,8 @@
   customizable cast bar
 - **Recount**  
   customizable damage/healing meter
+- **TellMeWhen**  
+  customizable icons for cooldowns, (de)buffs and other stuff that may need an icon
 - **Titan Panel**  
   adds a bar on top or bottom of the screen with customizable information
 - **TidyPlates**  
