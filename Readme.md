@@ -9,7 +9,7 @@
 
 ## AddOns
 - **Bartender4**  
-  customisable action bars
+  customizable action bars
 - **DeadlyBossMods**  
   boss timers for raids and dungoens
 - **GearScore**  
@@ -17,18 +17,23 @@
 - **Grid**  
   party and raid frames in a nice grid
 - **Omen**  
-  customisable threat meter
+  customizable threat meter
 - **OmniCC**  
   better cooldown timers on action bars
 - **PitBull4**  
-  customisable unit frames
+  customizable unit frames
 - **Quartz**  
-  customisable cast bar
+  customizable cast bar
 - **Recount**  
-  customisable damage/healing meter
+  customizable damage/healing meter
+- **Titan Panel**  
+  adds a bar on top or bottom of the screen with customizable information
 - **TidyPlates**  
   replaces floating health bars, shows proper aggro for tanks
 - **TinyTip**  
   replaces tooltips
 - **WeakAuras**  
-  customisable timers, icons and bars for cooldowns and buffs
+  customizable timers, icons and bars for cooldowns and buffs
+
+- **Peggle**  
+- **Bejeweled**  
