@@ -12,6 +12,8 @@
   inventory management, a single searchable bag with all your bagslots
 - **Bartender4**  
   customizable action bars
+- **CCReport**  
+  prints chat messages about CC and losing buffs
 - **DeadlyBossMods**  
   boss timers for raids and dungoens
 - **GearScore**  
